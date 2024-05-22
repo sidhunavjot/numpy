@@ -19,6 +19,3 @@ import matplotlib.pyplot as plt
 
 sns.displot(random.poisson(lam=50, size=1000))
 plt.show()
-
- 
-

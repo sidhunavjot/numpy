@@ -26,5 +26,3 @@ import numpy as np
 x = np.arange(1,11)
 y = np.lcm.reduce(x)
 print(y)
-
- 
